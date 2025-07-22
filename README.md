@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Claire Li!
 
 🎓 **Computer Science Student @ Columbia University**  
-🔒 Passionate about AI/ML, Cybersecurity, and Full-Stack Development  
+🔒 Passionate about AI/ML, NLP, and Full-Stack Development  
 🌍 Building secure, intelligent software to solve real-world problems  
 
 ---
