@@ -52,7 +52,7 @@ I'm currently a CS student at Columbia with hands-on experience in **machine lea
 - Built efficient NNs trained using stochastic gradient descent (Sentiment Analysis, Image Classification)
 
 *August 2025 – May 2026*
-- Will work with mentors in the industry along with a team of peers to apply ML knowledge to the real world in impactful ways
+- Will work with mentors in the industry along with a team of peers to apply ML knowledge to the real world in impactful ways (Project Pending)
 
 ### 🛡️ **Beaver Works Summer Institute @ MIT – Cyber Ops Class Leader**  
 *Jun 2022 – Aug 2022*  
