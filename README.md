@@ -37,14 +37,21 @@ I'm currently a CS student at Columbia with hands-on experience in **machine lea
 
 ### 🧠 **Research Assistant @ University of Minnesota CMMR Lab**  
 *Jul 2024 – Dec 2024*  
-- Built a U-Net model using PyTorch to denoise MRI images  
-- Tools: Python, Linux, Matlab, Git, VNC  
+- Built a U-Net model using PyTorch to denoise MRI images
+- Used Matlab to preprocess and become familiar with the datasets
+- Conducted training and testing on supercomputer through VNC
+- Tools: Python, Linux, Matlab, Git, VNC
 
 ### 🤖 **Break Through Tech AI @ Cornell Tech**  
-*May 2025 – May 2026*  
-- Completed certified ML Foundations course  
-- Built classification and clustering models (KNN, Random Forest, CNNs)  
-- Interpreted results using ROC curves and performance metrics  
+*May 2025 – August 2025*  
+- Completed and received certificate for Cornell University's ML Foundations course
+- Preprocessed large datasets (Windzorizing, filling missing data, one-hot-encoding, n-gram creation, lemmatization, stop word removal)
+- Built and deployed classification and clustering models (KNNs, Decision Trees, Linear/Logistic Regression, CNNs etc.)
+- Employed model selection, ensemble, and tuning methods to create more refined models (Cross-validation, Grid Search, Stacking, Random Forest, Gradient Boosting)
+- Evaluated ML models' functionality by interpreting metrics and confusion matrices, AUC-ROC curves, etc.
+- Built efficient NNs trained using stochastic gradient descent (Sentiment Analysis, Image Classification)
+*August 2025 – May 2026*
+- Will work with mentors in the industry along with a team of peers to apply ML knowledge to the real world in impactful ways
 
 ### 🛡️ **Beaver Works Summer Institute @ MIT – Cyber Ops Class Leader**  
 *Jun 2022 – Aug 2022*  
