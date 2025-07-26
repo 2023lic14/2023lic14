@@ -40,13 +40,13 @@ I'm currently a CS student at Columbia with hands-on experience in **machine lea
 - Built a U-Net model using PyTorch to denoise MRI images  
 - Tools: Python, Linux, Matlab, Git, VNC  
 
-### 🤖 **Break Through Tech AI (Cornell University)**  
+### 🤖 **Break Through Tech AI @ Cornell Tech**  
 *May 2025 – May 2026*  
 - Completed certified ML Foundations course  
 - Built classification and clustering models (KNN, Random Forest, CNNs)  
 - Interpreted results using ROC curves and performance metrics  
 
-### 🛡️ **MIT Beaver Works Summer Institute – Cyber Ops Class Leader**  
+### 🛡️ **Beaver Works Summer Institute @ MIT – Cyber Ops Class Leader**  
 *Jun 2022 – Aug 2022*  
 - Led OSINT team to profile Raccoon Stealer malware  
 - Used tools like VirusTotal, Metasploit, Zeek, and Wireshark  
