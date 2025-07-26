@@ -42,7 +42,7 @@ I'm currently a CS student at Columbia with hands-on experience in **machine lea
 - Conducted training and testing on supercomputer through VNC
 - Tools: Python, Linux, Matlab, Git, VNC
 
-### 🤖 **Break Through Tech AI @ Cornell Tech**  
+### 💻 **Break Through Tech AI @ Cornell Tech**  
 *May 2025 – August 2025*  
 - Completed and received certificate for Cornell University's ML Foundations course
 - Preprocessed large datasets (Windzorizing, filling missing data, one-hot-encoding, n-gram creation, lemmatization, stop word removal)
@@ -54,11 +54,27 @@ I'm currently a CS student at Columbia with hands-on experience in **machine lea
 *August 2025 – May 2026*
 - Will work with mentors in the industry along with a team of peers to apply ML knowledge to the real world in impactful ways (Project Pending)
 
+### 🤖 **First Tech Challenge Robotics**
+*2016 – 2023*
+- Designed, prototyped, programmed, and assembled robot
+- Implemented augmented reality and AI recognition on robot using tensorflow and Vuforia
+- Utilized Java to program robot, CAD to model parts for printing and assembly
+- Competed against other teams in FTC tournaments, troubleshot errors, and drafted design reports
+
 ### 🛡️ **Beaver Works Summer Institute @ MIT – Cyber Ops Class Leader**  
 *Jun 2022 – Aug 2022*  
-- Led OSINT team to profile Raccoon Stealer malware  
-- Used tools like VirusTotal, Metasploit, Zeek, and Wireshark  
-- Presented findings to an audience for Beaver Works' Summer Showcase
+- Participated in labs, worked in fireteams, and attended lectures held by cybersecurity professionals 
+- Completed execises on Hackthissite and Bandit
+- Used industry tools such as VirusTotal, Metasploit, Zeek, and Wireshark, etc.
+- As class leader, oversaw PCAP Investigation, Malware Analysis, Memory Dump and OSINT teams, facilitated communication between mentors and peers, organized class meetings, and kept things on schedule
+- Worked with OSINT team to profile Raccoon Stealer malware and presented findings to an audience for Beaver Works' Summer Showcase
+
+### 📊 **Data Science and Artificial Intelligence Program @ Wells Fargo**  
+*Jun 2020* 
+- Explored and visualized datasets using Python tools such as Pandas and MatplotLib
+- Attended lectures by professionals within the Data Science industry
+- Conducted statistical modeling using Python and worked in teams to conduct research and present projects
+- Designed and pitched iSweat, an exercise monitoring app which utilizes machine learning and artificial intelligence to prioritize user health and experience
 
 ---
 
