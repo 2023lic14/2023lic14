@@ -50,6 +50,7 @@ I'm currently a CS student at Columbia with hands-on experience in **machine lea
 - Employed model selection, ensemble, and tuning methods to create more refined models (Cross-validation, Grid Search, Stacking, Random Forest, Gradient Boosting)
 - Evaluated ML models' functionality by interpreting metrics and confusion matrices, AUC-ROC curves, etc.
 - Built efficient NNs trained using stochastic gradient descent (Sentiment Analysis, Image Classification)
+
 *August 2025 – May 2026*
 - Will work with mentors in the industry along with a team of peers to apply ML knowledge to the real world in impactful ways
 
