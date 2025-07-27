@@ -93,14 +93,35 @@ A Python-based solver using A* search with a custom heuristic
 - Avoids redundant moves and optimizes for efficiency  
 - Inspired by 10+ years of personal cubing experience
 
-### 🧾 [HTTP 1.0 Web Server in C](#) *(Dec 2024)*  
+### 🧾 [HTTP 1.0 Web Server in C] *(Dec 2024)*  
 Built a TCP-based HTTP server from scratch in C  
 - Handles static + dynamic content, error handling, and logging  
 - Implements directory traversal protection and IP tracking
 
-### 🔤 [Anagrams Finder](#) *(May 2024)*  
+### 🔤 [Anagrams Finder] *(May 2024)*  
 Java program to find anagrams using advanced data structures  
-- Used Hashmaps, Red-Black Trees, and Linked Lists for fast lookup  
+- Used Hashmaps, Red-Black Trees, and Linked Lists for fast lookup
+
+### 🌱 [Eco Escape](https://github.com/2023lic14/Eco-Escape.git) *(Feb 2024)* 
+Created a simple environment-themed puzzle game that combines my love for escape rooms with environmental awareness
+- Programmed using Python Kivy and hosted as a website on Google Cloud Platform with a bucket and load balancer
+- Illustrated all visual elements
+
+ ### 🗣️ [Semantic Role Labeling with BERT] *(Nov 2024)* 
+ - Developed a deep learning model in Python using PyTorch and Hugging Face's Transformers library to perform Semantic Role Labeling
+ - Fine-tuned a BERT model on OntoNotes 5.0 dataset, using contextual embeddings for sequence labeling
+ - Implemented tokenization and BIO-tag alignment, ensuring accurate mapping of subwords to semantic roles
+ - Trained and evaluated the model, achieving high accuracy and F1-score
+
+### 🎰 [Handheld Slot Machine] *(Sep 2023 - Nov 2023)* 
+Created a fully functional handheld slot machine that had working lights, music, a gear system, and laser coin detection to be presented at Columbia's Art of Engineering fair
+- Designed, 3D-printed, and laser-cut parts
+- Wired and programmed multiple Arduino Uno R3
+
+### 🚀 [Miniature Rocket] *(Sep 2023)* 
+Created a launchable ~16” rocket with an engine and extendable glider, designed parts using SolidWorks, 3D printed and laser cut parts
+- Launch height ~70 feet
+- Landed cleanly with no damage to the rocket
 
 ---
 
