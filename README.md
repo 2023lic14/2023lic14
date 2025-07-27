@@ -80,6 +80,23 @@ I'm currently a CS student at Columbia with hands-on experience in **machine lea
 
 ## 💡 Projects
 
+### 🔢 [Identifying Possible Systemic Gender Discrimination Using ML](https://github.com/2023lic14/breakthroughtechai.git) *(July 2025)*
+Problem: Gender discrimination is a prominent issue in America and around the world. What is a way to show it exists?
+
+Solution: By training a neural network on US census data, we could identify, based on the accuracy of the model, if there were satistically significant differences between gender using demographic data that should not directly relate to gender such as education, occupation*, income*, etc. Then, by identifying a difference, we are able to investigate* whether or not systemic discrimination is present
+- BRB
+
+### 🔢 [Neural Network From Scratch](https://github.com/2023lic14/Neural-Network-From-Scratch.git) *(June 2025)* 
+Created a convolutional neural network from scratch inside kaggle using no ML libraries, only linear algebra using NumPy, Pandas, and MatPlotLib
+- Trained on the MNIST dataset, the model was able to achieve above an 80% accuracy rate, further training may allow better performance
+- Yielded similar results to a model I created using Keras on the same dataset 
+
+### 🧱 [A* NxN Rubik’s Cube Solver](https://github.com/coms2132-sp25/final-project-2023lic14.git) *(May 2025)*  
+After cubing for 10+ years and still not being able to achieve a sub-20 second solve on the 3x3, I began wondering if I could create a a Python-based solver using A* that would find better solves than me. 
+- Implemented an A* search algorithm using a priority queue with a custom heuristic
+- Avoids redundant moves and optimizes for efficiency by using a pruning algorithm
+- Uses a max height variable that corresponds to the NxN cube's God's number (the maximum number of moves needed to solve any given cube state in the least rotations)
+
 ### 🌐 [SNAP for Students](https://github.com/jaysonedu/devfest2025.git) *(Feb 2025)*
 Problem: A study by UC Davis found that 19% to 56% of U.S. college students struggle with food insecurity. Many students would assume they don’t qualify, and the NYC online SNAP application is outdated and difficult to navigate. 
 
@@ -87,11 +104,6 @@ Solution: We created a website, SNAP for students, to make the process more dige
 - Built the frontend using React.js, Next.js, TypeScript, Tailwind CSS, HTML, and JavaScript
 - Designed and implemented a MongoDB-powered forum with comment-liking, upvoting/downvoting, post sorting, and reply features and utilized Node.js for backend functionality 
 - Integrated an OpenAI-powered chatbot with prompt engineering and eligibility quiz to help users determine SNAP qualification
-
-### 🧱 [A* Rubik’s Cube Solver](https://github.com/coms2132-sp25/final-project-2023lic14.git) *(May 2025)*  
-A Python-based solver using A* search with a custom heuristic  
-- Avoids redundant moves and optimizes for efficiency  
-- Inspired by 10+ years of personal cubing experience
 
 ### 🧾 HTTP 1.0 Web Server in C *(Dec 2024)*  
 Built a TCP-based HTTP server from scratch in C  
