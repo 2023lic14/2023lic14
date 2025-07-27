@@ -82,6 +82,7 @@ I'm currently a CS student at Columbia with hands-on experience in **machine lea
 
 ### 🌐 [SNAP for Students](https://github.com/jaysonedu/devfest2025.git) *(Feb 2025)*
 Problem: A study by UC Davis found that 19% to 56% of U.S. college students struggle with food insecurity. Many students would assume they don’t qualify, and the NYC online SNAP application is outdated and difficult to navigate. 
+
 Solution: We created a website, SNAP for students, to make the process more digestible. Our site is a full-stack website to simplify SNAP benefits access for students  
 - Built the frontend using React.js, Next.js, TypeScript, Tailwind CSS, HTML, and JavaScript
 - Designed and implemented a MongoDB-powered forum with comment-liking, upvoting/downvoting, post sorting, and reply features and utilized Node.js for backend functionality 
