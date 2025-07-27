@@ -88,7 +88,7 @@ Solution: We created a website, SNAP for students, to make the process more dige
 - Designed and implemented a MongoDB-powered forum with comment-liking, upvoting/downvoting, post sorting, and reply features and utilized Node.js for backend functionality 
 - Integrated an OpenAI-powered chatbot with prompt engineering and eligibility quiz to help users determine SNAP qualification
 
-### 🧱 [A* Rubik’s Cube Solver](#) *(May 2025)*  
+### 🧱 [A* Rubik’s Cube Solver](https://github.com/coms2132-sp25/final-project-2023lic14.git) *(May 2025)*  
 A Python-based solver using A* search with a custom heuristic  
 - Avoids redundant moves and optimizes for efficiency  
 - Inspired by 10+ years of personal cubing experience
