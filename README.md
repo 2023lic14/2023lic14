@@ -14,7 +14,7 @@ I'm currently a CS student at Columbia with hands-on experience in **machine lea
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🛠️ My Tech Stack
 
 **Languages:**  
 `Python` | `Java` | `C` | `JavaScript` | `TypeScript` | `HTML/CSS` | `MIPS`
