@@ -80,7 +80,7 @@ I'm currently a CS student at Columbia with hands-on experience in **machine lea
 
 ## 💡 Projects
 
-### 🌐 [SNAP for Students](#) *(Feb 2025)*  
+## 🌐 [SNAP for Students](https://github.com/jaysonedu/devfest2025.git) *(Feb 2025)*
 A full-stack website to simplify SNAP benefits access for students  
 - Frontend: React.js, Next.js, Tailwind CSS  
 - Backend: Node.js + MongoDB  
