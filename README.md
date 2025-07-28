@@ -81,7 +81,7 @@ I'm currently a CS student at Columbia with hands-on experience in **machine lea
 ## 💡 Projects
 
 ### 🔢 [Identifying Possible Systemic Gender Discrimination Using ML](https://github.com/2023lic14/breakthroughtechai.git) *(July 2025)*
-Problem: Gender discrimination is a prominent issue in America and around the world. What is a way to show it exists?
+Problem: Gender discrimination is a prominent issue in America. What is a way to show it exists?
 
 Solution: By training a neural network on US census data, we could identify, based on the accuracy of the model, if there were satistically significant differences between gender using demographic data that are not directly relate to gender such as education, occupation, income, etc. Then, by identifying a difference, we are able to investigate* whether or not systemic discrimination is present
 - Faithfully followed the procedures of the ML lifecycle
