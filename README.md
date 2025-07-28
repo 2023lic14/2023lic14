@@ -44,8 +44,8 @@ I'm currently a CS student at Columbia with hands-on experience in **machine lea
 
 ### 💻 **Break Through Tech AI @ Cornell Tech**  
 *May 2025 – August 2025*  
-- Completed and received certificate for Cornell University's ML Foundations course
-- Preprocessed large datasets (Windzorizing, filling missing data, one-hot-encoding, n-gram creation, lemmatization, stop word removal)
+- Completed and received a certificate for Cornell University's ML Foundations course
+- Preprocessed large datasets (windzorizing, filling missing data, one-hot-encoding, n-gram creation, lemmatization, stop word removal)
 - Built and deployed classification and clustering models (KNNs, Decision Trees, Linear/Logistic Regression, CNNs etc.)
 - Employed model selection, ensemble, and tuning methods to create more refined models (Cross-validation, Grid Search, Stacking, Random Forest, Gradient Boosting)
 - Evaluated ML models' functionality by interpreting metrics and confusion matrices, AUC-ROC curves, etc.
@@ -83,8 +83,18 @@ I'm currently a CS student at Columbia with hands-on experience in **machine lea
 ### 🔢 [Identifying Possible Systemic Gender Discrimination Using ML](https://github.com/2023lic14/breakthroughtechai.git) *(July 2025)*
 Problem: Gender discrimination is a prominent issue in America and around the world. What is a way to show it exists?
 
-Solution: By training a neural network on US census data, we could identify, based on the accuracy of the model, if there were satistically significant differences between gender using demographic data that should not directly relate to gender such as education, occupation*, income*, etc. Then, by identifying a difference, we are able to investigate* whether or not systemic discrimination is present
-- BRB
+Solution: By training a neural network on US census data, we could identify, based on the accuracy of the model, if there were satistically significant differences between gender using demographic data that are not directly relate to gender such as education, occupation, income, etc. Then, by identifying a difference, we are able to investigate* whether or not systemic discrimination is present
+- Faithfully followed the procedures of the ML lifecycle
+- Preprocessed and conducted feature engineering on the 1994 US census data (windzorized all numerical columns, filled missing entiries, one-hot encoded all categorical colummns, removed irrelevant features, identified and addressed class imbalance, split train and test data, etc.)
+- Trained using Tensorflow Keras' Sequential model with 3 hidden layers of 32, 16, and a 8 units fine-tuned to avoid over/underfitting and uses SGD to optimize performance
+- After 100 epochs, accuracy testing resulted in a loss of 0.4567 and accuracy of 0.7775. Created confusion matrix identifying high count of Type II error
+
+Conclusion: The model performed good but not great, still signifying statistical correlation between demographic information and gender identity
+
+
+*It is important to conduct investigation as to which features are most strongly correlated with these results. Categories such as occupation and income may be correlated with gender in a non-discriminatory way. Next steps to do so include plotting features against the label to determine highest correlation.
+
+**This type of ML model has the potential to be used unethically. That is not the intention of this project.
 
 ### 🔢 [Neural Network From Scratch](https://github.com/2023lic14/Neural-Network-From-Scratch.git) *(June 2025)* 
 Created a convolutional neural network from scratch inside kaggle using no ML libraries, only linear algebra using NumPy, Pandas, and MatPlotLib
