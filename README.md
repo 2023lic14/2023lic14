@@ -17,19 +17,19 @@ Aside from CS, I love playing video games and board games, drawing, cubing, and 
 ## 🛠️ My Tech Stack
 
 **Languages:**  
-`Python` | `Java` | `C` | `JavaScript` | `TypeScript` | `HTML/CSS` | `MIPS`
+`Python` | `Java` | `C` | `JavaScript` | `TypeScript` | `HTML/CSS` | `MIPS` | `Shell Script/Bash`
 
 **Frameworks & Tools:**  
-`React.js` | `Next.js` | `Node.js` | `Git` | `Tailwind CSS` | `Linux`
+`React.js` | `Next.js` | `Node.js` | `Git` | `Tailwind CSS` | `Linux` | `SolidWorks` | `Autodesk CAD` | `MATLAB`
 
 **ML & Data Science:**  
-`PyTorch` | `Keras` | `Pandas` | `NumPy` | `scikit-learn` | `Matplotlib` | `Seaborn` | `Tensorflow`
+`PyTorch` | `Keras` | `Pandas` | `NumPy` | `Scikit-Learn` | `Matplotlib` | `Seaborn` 
 
 **Cybersecurity Tools:**  
-`Kali Linux` | `Wireshark` | `REMnux` | `Metasploit` | `Burp Suite` | `Zeek` | `Volatility`
+`Kali Linux` | `Wireshark` | `REMnux` | `Metasploit` | `Burp Suite` | `Zeek` | `Volatility` | `VirusTotal` | `Joe's Sandbox` | `WHOIS` | `Threatminer` | `AnyRun`
 
 **Databases & APIs:**  
-`MongoDB` | `REST APIs`
+`MongoDB` | `REST APIs` | `OpenAI API`
 
 ---
 
@@ -80,7 +80,7 @@ Aside from CS, I love playing video games and board games, drawing, cubing, and 
 
 ## 💡 Projects
 
-### 🔢 [Identifying Possible Systemic Gender Discrimination Using ML](https://github.com/2023lic14/breakthroughtechai.git) *(July 2025)*
+### 🕵️‍♀️ [Identifying Possible Systemic Gender Discrimination Using ML](https://github.com/2023lic14/breakthroughtechai.git) *(July 2025)*
 Problem: Gender discrimination is a prominent issue in America. What is a way to show it exists?
 
 Solution: By training a neural network on US census data, we could identify, based on the accuracy of the model, if there were satistically significant differences between gender using demographic data that are not directly relate to gender such as education, occupation, income, etc. Then, by identifying a difference, we are able to investigate* whether or not systemic discrimination is present
