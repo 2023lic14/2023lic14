@@ -117,12 +117,15 @@ Solution: We created a website, SNAP for students, to make the process more dige
 
 ### 🧾 HTTP 1.0 Web Server in C *(Dec 2024)*  
 Built a TCP-based HTTP server from scratch in C  
-- Handles static + dynamic content, error handling, and logging  
+- Handles static + dynamic content, error handling, and logging 
 - Implements directory traversal protection and IP tracking
+- Manages all memory manually using malloc() and free(), demonstrating in-depth understanding of memory allocation.
+- Runs on command line, demonstrating high level understanding of low level code, file reading/writing, TCP sockets, stdin/stdout/stderr, REST API etc.
 
 ### 🔤 Anagrams Finder *(May 2024)*  
-Java program to find anagrams using advanced data structures  
-- Used Hashmaps, Red-Black Trees, and Linked Lists for fast lookup
+Created a Java program to find anagrams using advanced data structures  
+- Built Hashmaps, Red-Black Trees, and Linked Lists from scratch to create 3 different ways to find anagrams
+- Took user input for data structure and word, and produced all anagrams from a dictionary.txt file
 
 ### 🌱 [Eco Escape](https://github.com/2023lic14/Eco-Escape.git) *(Feb 2024)* 
 Created a simple environment-themed puzzle game that combines my love for escape rooms with environmental awareness
@@ -143,16 +146,18 @@ Created a fully functional handheld slot machine that had working lights, music,
 ### 🚀 Miniature Rocket *(Sep 2023)* 
 Created a launchable ~16” rocket with an engine and extendable glider, designed parts using SolidWorks, 3D printed and laser cut parts
 - Launch height ~70 feet
-- Landed cleanly with no damage to the rocket
+- Landed well with no damage to the rocket
 
 ---
 
 ## 💼 Leadership & Activities
 
 - 📣 Event Coordinator – Women in Computer Science (WiCS)  
-- 🚀 Columbia Space Initiative & App Development Initiative  
-- 🎮 Team Leader – Columbia Tetris League (Top 12% player globally on TETR.IO)  
-- 📚 Math Tutor – Reading Team Math  
+- 🚀 Columbia Space Initiative
+- 👩🏻‍💻 Columbia App Development Initiative  
+- 🎮 Team Leader – Columbia Tetris League
+- 📚 Math Tutor – Reading Team Math
+- 
 
 ---
 
@@ -160,6 +165,7 @@ Created a launchable ~16” rocket with an engine and extendable glider, designe
 
 📧 Email: [ccl2180@columbia.edu](mailto:ccl2180@columbia.edu)  
 🌐 GitHub: [github.com/2023lic14](https://github.com/2023lic14)
+👥 LinkedIn: [https://www.linkedin.com/in/claire-li-178152272/](https://www.linkedin.com/in/claire-li-178152272/)
 
 ---
 
