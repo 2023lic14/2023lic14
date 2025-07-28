@@ -10,6 +10,8 @@
 
 I'm currently a CS student at Columbia with hands-on experience in **machine learning**, **cybersecurity**, and **software & web development**. I’ve worked on everything from training U-Net models for medical imaging to leading malware analysis investigations and building AI-enabled web apps. As is true for all my projects, I love combining **technical depth** with **real-world impact**.
 
+Aside from CS, I love playing video games and board games, drawing, cubing, and traveling! Ask me about **Tetris** or my recent trip to **Peru**!
+
 ---
 
 ## 🛠️ My Tech Stack
