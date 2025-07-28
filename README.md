@@ -165,6 +165,7 @@ Created a launchable ~16” rocket with an engine and extendable glider, designe
 
 📧 Email: [ccl2180@columbia.edu](mailto:ccl2180@columbia.edu)  
 🌐 GitHub: [github.com/2023lic14](https://github.com/2023lic14)
+
 👥 LinkedIn: [https://www.linkedin.com/in/claire-li-178152272/](https://www.linkedin.com/in/claire-li-178152272/)
 
 ---
