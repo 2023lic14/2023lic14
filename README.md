@@ -89,7 +89,7 @@ Solution: By training a neural network on US census data, we could identify, bas
 - Trained using Tensorflow Keras' Sequential model with 3 hidden layers of 32, 16, and a 8 units fine-tuned to avoid over/underfitting and uses SGD to optimize performance
 - After 100 epochs, accuracy testing resulted in a loss of 0.4567 and accuracy of 0.7775. Created confusion matrix identifying high count of Type II error
 
-Conclusion: The model performed good but not great, still signifying statistical correlation between demographic information and gender identity
+Conclusion: The model performed good but not great, still signifying statistical correlation between demographic information and gender identity**
 
 
 *It is important to conduct investigation as to which features are most strongly correlated with these results. Categories such as occupation and income may be correlated with gender in a non-discriminatory way. Next steps to do so include plotting features against the label to determine highest correlation.
