@@ -157,7 +157,6 @@ Created a launchable ~16” rocket with an engine and extendable glider, designe
 - 👩🏻‍💻 Columbia App Development Initiative  
 - 🎮 Team Leader – Columbia Tetris League
 - 📚 Math Tutor – Reading Team Math
-- 
 
 ---
 
