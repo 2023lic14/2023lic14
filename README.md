@@ -10,8 +10,6 @@
 
 I'm currently a CS student at Columbia with hands-on experience in **machine learning**, **cybersecurity**, and **software & web development**. I’ve worked on everything from training U-Net models for medical imaging to leading malware analysis investigations and building AI-enabled web apps. As is true for all my projects, I love combining **technical depth** with **real-world impact**.
 
-📌 *Ask me about training CNNs to denoise MRI images, creating a student-friendly SNAP eligibility checker, or investigating malware at MIT Beaver Works!*
-
 ---
 
 ## 🛠️ My Tech Stack
