@@ -1,3 +1,7 @@
+<img src="IMG_3717.JPG" alt="Claire Li banner" style="width:100%;"/>
+
+<img src="IMG_5935.JPG" width="120" align="left" style="border-radius: 50%; margin-right: 20px;" alt="Claire Li" />
+
 # 👋 Hi, I'm Claire Li!
 
 🎓 **Computer Science Student @ Columbia University**  
@@ -35,17 +39,10 @@ Aside from CS, I love playing video games and board games, drawing, cubing, and 
 
 ## 🔬 Experience
 
-### 🧠 **Research Assistant @ University of Minnesota CMMR Lab**  
-*Jul 2024 – Dec 2024*  
-- Built a U-Net model using PyTorch to denoise MRI images
-- Used Matlab to preprocess and become familiar with the datasets
-- Conducted training and testing on supercomputer through VNC
-- Tools: Python, Linux, Matlab, Git, VNC
-
 ### 💻 **Break Through Tech AI @ Cornell Tech**  
 *May 2025 – August 2025*  
 - Completed and received a certificate for Cornell University's ML Foundations course
-- Preprocessed large datasets (windzorizing, filling missing data, one-hot-encoding, n-gram creation, lemmatization, stop word removal)
+- Preprocessed large datasets (windsorizing, filling missing data, one-hot-encoding, n-gram creation, lemmatization, stop word removal)
 - Built and deployed classification and clustering models (KNNs, Decision Trees, Linear/Logistic Regression, CNNs etc.)
 - Employed model selection, ensemble, and tuning methods to create more refined models (Cross-validation, Grid Search, Stacking, Random Forest, Gradient Boosting)
 - Evaluated ML models' functionality by interpreting metrics and confusion matrices, AUC-ROC curves, etc.
@@ -53,6 +50,13 @@ Aside from CS, I love playing video games and board games, drawing, cubing, and 
 
 *August 2025 – May 2026*
 - Will work with mentors in the industry along with a team of peers to apply ML knowledge to the real world in impactful ways (Project Pending)
+
+### 🧠 **Research Assistant @ University of Minnesota CMMR Lab**  
+*Jul 2024 – Dec 2024*  
+- Built a U-Net model using PyTorch to denoise MRI images
+- Used Matlab to preprocess and become familiar with the datasets
+- Conducted training and testing on supercomputer through VNC
+- Tools: Python, Linux, Matlab, Git, VNC
 
 ### 🤖 **First Tech Challenge Robotics**
 *2016 – 2023*
@@ -80,34 +84,37 @@ Aside from CS, I love playing video games and board games, drawing, cubing, and 
 
 ## 💡 Projects
 
-### 🕵️‍♀️ [Identifying Possible Systemic Gender Discrimination Using ML](https://github.com/2023lic14/breakthroughtechai.git) *(July 2025)*
+### 🕵️‍♀️ [Identifying Possible Systemic Gender Discrimination Using ML](https://github.com/2023lic14/breakthroughtechai) *(July 2025)*
 Problem: Gender discrimination is a prominent issue in America. What is a way to show it exists?
 
-Solution: By training a neural network on US census data, we could identify, based on the accuracy of the model, if there were satistically significant differences between gender using demographic data that are not directly relate to gender such as education, occupation, income, etc. Then, by identifying a difference, we are able to investigate* whether or not systemic discrimination is present
+Solution: By training a neural network on US census data, we could identify, based on the accuracy of the model, if there were statistically significant differences between gender using demographic data that are not directly relate to gender such as education, occupation, income, etc. Then, by identifying a difference, we are able to investigate* whether or not systemic discrimination is present
+
+> *This project is exploratory and not intended to assign causality. Further investigation is necessary to interpret correlations ethically and accurately.*
+
 - Faithfully followed the procedures of the ML lifecycle
-- Preprocessed and conducted feature engineering on the 1994 US census data (windzorized all numerical columns, filled missing entiries, one-hot encoded all categorical colummns, removed irrelevant features, identified and addressed class imbalance, split train and test data, etc.)
+- Preprocessed and conducted feature engineering on the 1994 US census data (windzorized all numerical columns, filled missing entries, one-hot encoded all categorical columns, removed irrelevant features, identified and addressed class imbalance, split train and test data, etc.)
 - Trained using Tensorflow Keras' Sequential model with 3 hidden layers of 32, 16, and a 8 units fine-tuned to avoid over/underfitting and uses SGD to optimize performance
 - After 100 epochs, accuracy testing resulted in a loss of 0.4567 and accuracy of 0.7775. Created confusion matrix identifying high count of Type II error
 
-Conclusion: The model performed good but not great, still signifying statistical correlation between demographic information and gender identity**
+Conclusion: The model performed well, though not exceptionally, still signifying statistical correlation between demographic information and gender identity**
 
 
 *It is important to conduct investigation as to which features are most strongly correlated with these results. Categories such as occupation and income may be correlated with gender in a non-discriminatory way. Next steps to do so include plotting features against the label to determine highest correlation.
 
 **This type of ML model has the potential to be used unethically. That is not the intention of this project.
 
-### 🔢 [Neural Network From Scratch](https://github.com/2023lic14/Neural-Network-From-Scratch.git) *(June 2025)* 
+### 🔢 [Neural Network From Scratch](https://github.com/2023lic14/Neural-Network-From-Scratch) *(June 2025)* 
 Created a convolutional neural network from scratch inside kaggle using no ML libraries, only linear algebra using NumPy, Pandas, and MatPlotLib
 - Trained on the MNIST dataset, the model was able to achieve above an 80% accuracy rate, further training may allow better performance
 - Yielded similar results to a model I created using Keras on the same dataset 
 
-### 🧱 [A* NxN Rubik’s Cube Solver](https://github.com/coms2132-sp25/final-project-2023lic14.git) *(May 2025)*  
+### 🧱 [A* NxN Rubik’s Cube Solver](https://github.com/coms2132-sp25/final-project-2023lic14) *(May 2025)*  
 After cubing for 10+ years and still not being able to achieve a sub-20 second solve on the 3x3, I began wondering if I could create a a Python-based solver using A* that would find better solves than me. 
 - Implemented an A* search algorithm using a priority queue with a custom heuristic
 - Avoids redundant moves and optimizes for efficiency by using a pruning algorithm
 - Uses a max height variable that corresponds to the NxN cube's God's number (the maximum number of moves needed to solve any given cube state in the least rotations)
 
-### 🌐 [SNAP for Students](https://github.com/jaysonedu/devfest2025.git) *(Feb 2025)*
+### 🌐 [SNAP for Students](https://github.com/jaysonedu/devfest2025) *(Feb 2025)*
 Problem: A study by UC Davis found that 19% to 56% of U.S. college students struggle with food insecurity. Many students would assume they don’t qualify, and the NYC online SNAP application is outdated and difficult to navigate. 
 
 Solution: We created a website, SNAP for students, to make the process more digestible. Our site is a full-stack website to simplify SNAP benefits access for students  
@@ -122,21 +129,21 @@ Built a TCP-based HTTP server from scratch in C
 - Manages all memory manually using malloc() and free(), demonstrating in-depth understanding of memory allocation.
 - Runs on command line, demonstrating high level understanding of low level code, file reading/writing, TCP sockets, stdin/stdout/stderr, REST API etc.
 
+### 🗣️ Semantic Role Labeling with BERT *(Nov 2024)* 
+ - Developed a deep learning model in Python using PyTorch and Hugging Face's Transformers library to perform Semantic Role Labeling
+ - Fine-tuned a BERT model on OntoNotes 5.0 dataset, using contextual embeddings for sequence labeling
+ - Implemented tokenization and BIO-tag alignment, ensuring accurate mapping of subwords to semantic roles
+ - Trained and evaluated the model, achieving high accuracy and F1-score
+
 ### 🔤 Anagrams Finder *(May 2024)*  
 Created a Java program to find anagrams using advanced data structures  
 - Built Hashmaps, Red-Black Trees, and Linked Lists from scratch to create 3 different ways to find anagrams
 - Took user input for data structure and word, and produced all anagrams from a dictionary.txt file
 
-### 🌱 [Eco Escape](https://github.com/2023lic14/Eco-Escape.git) *(Feb 2024)* 
+### 🌱 [Eco Escape](https://github.com/2023lic14/Eco-Escape) *(Feb 2024)* 
 Created a simple environment-themed puzzle game that combines my love for escape rooms with environmental awareness
 - Programmed using Python Kivy and hosted as a website on Google Cloud Platform with a bucket and load balancer
 - Illustrated all visual elements
-
- ### 🗣️ Semantic Role Labeling with BERT *(Nov 2024)* 
- - Developed a deep learning model in Python using PyTorch and Hugging Face's Transformers library to perform Semantic Role Labeling
- - Fine-tuned a BERT model on OntoNotes 5.0 dataset, using contextual embeddings for sequence labeling
- - Implemented tokenization and BIO-tag alignment, ensuring accurate mapping of subwords to semantic roles
- - Trained and evaluated the model, achieving high accuracy and F1-score
 
 ### 🎰 Handheld Slot Machine *(Sep 2023 - Nov 2023)* 
 Created a fully functional handheld slot machine that had working lights, music, a gear system, and laser coin detection to be presented at Columbia's Art of Engineering fair
@@ -170,7 +177,7 @@ Created a launchable ~16” rocket with an engine and extendable glider, designe
 
 ## ☕ Fun Fact
 
-Always down for a **Maiko Matcha Soft Serve** and always looking to talk about my super cool (albiet not very large) **Charizard Pokémon card collection**!
+Always down for a **Maiko Matcha Soft Serve** and always looking to talk about my super cool (albeit not very large) **Charizard Pokémon card collection**!
 
 ---
 
