@@ -1,12 +1,12 @@
 <img src="banner.png" alt="Claire Li banner" style="width:100%;"/>
 
-<table>
+<table style="width: 100%; margin-top: 20px;">
   <tr>
-    <td width="140">
-      <img src="pfp.png" width="120" style="border-radius: 50%;" alt="Claire Li" />
+    <td style="width: 180px; vertical-align: top;">
+      <img src="pfp.png" width="160" style="border-radius: 50%; display: block; margin: auto;" alt="Claire Li" />
     </td>
-    <td>
-      <h1>👋 Hi, I'm Claire Li!</h1>
+    <td style="padding-left: 20px;">
+      <h1 style="margin-bottom: 10px;">👋 Hi, I'm Claire Li!</h1>
       <p>
         🎓 <strong>Computer Science Student @ Columbia University</strong><br>
         🔒 Passionate about AI/ML, NLP, and Full-Stack Development<br>
