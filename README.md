@@ -32,16 +32,19 @@ Aside from CS, I love playing video games and board games, drawing, cubing, and 
 `Python` | `Java` | `C` | `JavaScript` | `TypeScript` | `HTML/CSS` | `MIPS` | `Shell Script/Bash`
 
 **Frameworks & Tools:**  
-`React.js` | `Next.js` | `Node.js` | `Git` | `Tailwind CSS` | `Linux` | `SolidWorks` | `Autodesk CAD` | `MATLAB`
+`React.js` | `Next.js` | `Node.js` | `Git` | `Tailwind CSS` | `Linux` | `SolidWorks` | `Autodesk CAD` | `MATLAB` | `Kivy` | `TCP Sockets`
 
 **ML & Data Science:**  
-`PyTorch` | `Keras` | `Pandas` | `NumPy` | `Scikit-Learn` | `Matplotlib` | `Seaborn` 
+`PyTorch` | `Keras` | `Pandas` | `NumPy` | `Scikit-Learn` | `Matplotlib` | `Seaborn` | `Tensorflow` | `BERT` | `HuggingFace`
 
 **Cybersecurity Tools:**  
 `Kali Linux` | `Wireshark` | `REMnux` | `Metasploit` | `Burp Suite` | `Zeek` | `Volatility` | `VirusTotal` | `Joe's Sandbox` | `WHOIS` | `Threatminer` | `AnyRun`
 
 **Databases & APIs:**  
 `MongoDB` | `REST APIs` | `OpenAI API`
+
+**Hardware:**
+`Arduino` | `Laser Cutting` | `3D Printing` | `Soldering`
 
 ---
 
