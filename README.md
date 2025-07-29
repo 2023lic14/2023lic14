@@ -1,6 +1,6 @@
-<img src="IMG_3717.JPG" alt="Claire Li banner" style="width:100%;"/>
+<img src="banner.png" alt="Claire Li banner" style="width:100%;"/>
 
-<img src="IMG_5935.JPG" width="120" align="left" style="border-radius: 50%; margin-right: 20px;" alt="Claire Li" />
+<img src="pfp.png" width="120" align="left" style="border-radius: 50%; margin-right: 20px;" alt="Claire Li" />
 
 # 👋 Hi, I'm Claire Li!
 
