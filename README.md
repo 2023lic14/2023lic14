@@ -8,6 +8,8 @@
 🔒 Passionate about AI/ML, NLP, and Full-Stack Development  
 🌍 Building secure, intelligent software to solve real-world problems  
 
+<br clear="left" />
+
 ---
 
 ## 🚀 About Me
