@@ -1,14 +1,20 @@
 <img src="banner.png" alt="Claire Li banner" style="width:100%;"/>
 
-<img src="pfp.png" width="120" align="left" style="border-radius: 50%; margin-right: 20px;" alt="Claire Li" />
-
-# 👋 Hi, I'm Claire Li!
-
-🎓 **Computer Science Student @ Columbia University**  
-🔒 Passionate about AI/ML, NLP, and Full-Stack Development  
-🌍 Building secure, intelligent software to solve real-world problems  
-
-<br clear="left" />
+<table>
+  <tr>
+    <td width="140">
+      <img src="pfp.png" width="120" style="border-radius: 50%;" alt="Claire Li" />
+    </td>
+    <td>
+      <h1>👋 Hi, I'm Claire Li!</h1>
+      <p>
+        🎓 <strong>Computer Science Student @ Columbia University</strong><br>
+        🔒 Passionate about AI/ML, NLP, and Full-Stack Development<br>
+        🌍 Building secure, intelligent software to solve real-world problems
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
